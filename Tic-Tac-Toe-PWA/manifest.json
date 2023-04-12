@@ -2,7 +2,7 @@
     "name": "Tic-Tac-Toe",
     "short_name":"Tic-Tac-Toe",
     "description":"Tic-Tac-Toe",
-    "start_url":"http://ebell259/Tic-Tac-Toe-PWA.github.io/Tic-Tac-Toe-PWA/index.html",
+    "start_url":"http://Tic-Tac-Toe-PWA.github.io/Tic-Tac-Toe-PWA/index.html",
     "theme_color": "#ff4500",
     "background_color":"#ffdab9",
     "display" : "minimal-ui",
