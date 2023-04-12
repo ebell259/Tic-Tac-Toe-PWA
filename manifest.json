@@ -2,7 +2,7 @@
     "name": "Tic-Tac-Toe",
     "short_name":"Tic-Tac-Toe",
     "description":"Tic-Tac-Toe",
-    "start_url":"http://ebell259.github.io",
+    "start_url":"https://ebell259.github.io",
     "theme_color": "#ff4500",
     "background_color":"#ffdab9",
     "display" : "minimal-ui",
